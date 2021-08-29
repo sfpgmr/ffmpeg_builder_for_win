@@ -1,0 +1,2 @@
+# ffmpeg_builder_fpr_win
+ShiftMediaProjectの素晴らしいツール群を使用して、ffmpegをVisual Studio Build Toolsを使ってビルドするPowerShellスクリプトを作ります。
