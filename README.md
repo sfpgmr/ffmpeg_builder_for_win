@@ -19,7 +19,7 @@ ShiftMediaProjectの素晴らしいツール群を使用して、ffmpegをVisual
 -BuiltTypebuild/rebuild/cleanのオプションが選択できます（規定値：build）。<br>
 -ObjTypeでDebug/Release/DebugDLL/ReleaseDLL/ReleaseDLLStaticDepsのオプションが選択できます。（規定値：Release）<br>
 -CpuTypeでx86/x64が選択できます。（規定値：x64）
-5. msvc\binにオブジェクトが生成されます。ビルドされるのはRelease/Debugのx64版のみです。
+5. msvc\binにオブジェクトが生成されます。
 
 ## 注意事項
 
