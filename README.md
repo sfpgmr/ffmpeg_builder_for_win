@@ -11,7 +11,7 @@ ShiftMediaProjectの素晴らしいツール群を使用して、ffmpegをVisual
 * PowerShellの最新バージョンがインストールされていること
 ## 使い方
 
-1. レポジトリをクローンします
+1. このレポジトリをクローンします
 2. x64 Native Tool Command Promptを起動し、クロ－ンしたディレクトリに移動します。
 3. pwshを起動します。
 4. build.ps1を実行します。<br>
