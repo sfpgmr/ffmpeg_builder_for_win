@@ -2,7 +2,7 @@
 
 ShiftMediaProjectの素晴らしいツール群を使用して、ffmpegをVisual Studio Build Toolsを使ってビルドするPowerShellスクリプトです。
 
-ビルド・フローに関しては[FFmpeg/readme\.txt](https://github.com/ShiftMediaProject/FFmpeg/blob/master/SMP/readme.txt)の手順を参考に、YASMを追加インストールするステップを追加しています。
+ビルドに関しては[FFmpeg/readme\.txt](https://github.com/ShiftMediaProject/FFmpeg/blob/master/SMP/readme.txt)の手順を参考に、YASMを追加インストールするステップを追加しています。
 
 ## 実行にあたっての前提条件
 
