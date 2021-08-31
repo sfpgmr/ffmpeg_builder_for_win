@@ -16,7 +16,7 @@
 3. pwshを起動します。
 4. build.ps1を実行します。<br>
 -Cleanを指定すると作業ディレクトリをすべて削除したのち、ビルドします。<br>
--BuiltTypebuild/rebuild/cleanのオプションが選択できます（規定値：build）。<br>
+-BuiltTypeでbuild/rebuild/cleanのオプションが選択できます（規定値：build）。<br>
 -ObjTypeでDebug/Release/DebugDLL/ReleaseDLL/ReleaseDLLStaticDepsのオプションが選択できます。（規定値：Release）<br>
 -CpuTypeでx86/x64が選択できます。（規定値：x64）
 5. msvc\binにオブジェクトが生成されます。
