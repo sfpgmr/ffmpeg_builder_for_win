@@ -1,6 +1,6 @@
 # ffmpeg_builder_for_win
 
-ShiftMediaProjectの素晴らしいツール群を使用して、ffmpegをVisual Studio Build Toolsを使ってビルドするPowerShellスクリプトです。
+[Shift Media Project](https://shiftmediaproject.github.io/)の素晴らしいツール群を使用して、ffmpegをVisual Studio Build Toolsを使ってビルドするPowerShellスクリプトです。
 
 ビルドに関しては[FFmpeg/readme\.txt](https://github.com/ShiftMediaProject/FFmpeg/blob/master/SMP/readme.txt)の手順を参考に、YASMを追加インストールするステップを追加しています。
 
